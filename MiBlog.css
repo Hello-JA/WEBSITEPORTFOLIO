@@ -1,0 +1,21 @@
+body {
+    background-color: blanchedalmond;
+    margin: 30px;
+}
+
+
+.subtitulo {
+    font-size: medium;
+    font-weight: 700;
+    color: black;
+}
+
+h1 {
+    font-family: cursive;
+    color:black;
+    
+}
+
+p{
+    font-size: 20px;
+}
